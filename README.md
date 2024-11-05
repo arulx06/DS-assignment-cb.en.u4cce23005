@@ -47,4 +47,11 @@ The source code for this assignment is located in the `src` directory.
 
 ```
 src/
-└── your_script.py
+└── .py
+
+```
+
+```
+Report/
+└── .pdf
+```
