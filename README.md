@@ -8,7 +8,7 @@
 - [Assignment 3: Traversal Schemes on Weighted Directed Graphs](#assignment-3-traversal-schemes-on-weighted-directed-graphs)
 - [Assignment 4: Minimum Spanning Trees for Weighted Undirected Graphs](#assignment-4-minimum-spanning-trees-for-weighted-undirected-graphs)
 - [Source Code](#source-code)
-- [Reports/PDFs](#reports-pdfs)
+- [Report](#reports-pdfs)
 
 ---
 
